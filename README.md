@@ -17,14 +17,9 @@ Clique no emoji :white_check_mark: e o link irá te encaminhar para as sugestõe
 
 | Linguagem | Declarando Função | Expressão Condicional  |
 | ------------- |:-------------:| --------:|
-| javascript |
-[:white_check_mark:](https://github.com/openschoolbr/cheatsheet/tree/master/readme#DeclaraçãodeFunção) | [:white_check_mark:](https://github.com/openschoolbr/cheatsheet/tree/master/readme#DeclaraçãodeFunção) |
-| c sharp |
-:white_check_mark: |
-   |
-| php |
-:white_check_mark: |
-    |
+| javascript |[:white_check_mark:](https://github.com/openschoolbr/cheatsheet/tree/master/readme#DeclaraçãodeFunção) |[:white_check_mark:](https://github.com/openschoolbr/cheatsheet/tree/master/readme#DeclaraçãodeFunção) |
+| c sharp |      |     |
+| php |     |     |
 
 ## Licença
 MIT &copy; Open School Brasil
